@@ -1,0 +1,56 @@
+body {
+    color: lightgrey;
+    background-color: black;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.orange {
+    color: orange;
+}
+
+.pink {
+    color: pink;
+}
+
+.cyan {
+    color: cyan;
+}
+
+.console {
+    font-family: Courier, serif;
+    padding: 10px;
+    font-size: 18px;
+    word-wrap: break-word;
+}
+
+.prompt {
+    display: inline-block;
+    line-height: 0;
+    height: 18px;
+}
+
+.blink {
+    background-color: lightgrey;
+}
+
+.cursor {
+    height: 16px;
+    width: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
